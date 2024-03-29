@@ -3,27 +3,27 @@
             {
                 "ENV_NAME": "pr",
                 "RUNTIME_NAME": "llmops-runtime-1",
-                "KEYVAULT_NAME": "aml18407241979",
-                "RESOURCE_GROUP_NAME": "aml",
-                "WORKSPACE_NAME": "aml1",
+                "KEYVAULT_NAME": "kv-hub1819241652769",
+                "RESOURCE_GROUP_NAME": "rg-hub1",
+                "WORKSPACE_NAME": "llmops-workshop",
                 "STANDARD_FLOW_PATH": "flows/standard",
                 "EVALUATION_FLOW_PATH": "flows/evaluation"
             },
             {
                 "ENV_NAME": "dev",
                 "RUNTIME_NAME": "llmops-runtime-1",
-                "KEYVAULT_NAME": "aml18407241979",
-                "RESOURCE_GROUP_NAME": "aml",
-                "WORKSPACE_NAME": "aml1",
+                "KEYVAULT_NAME": "kv-hub1819241652769",
+                "RESOURCE_GROUP_NAME": "rg-hub1",
+                "WORKSPACE_NAME": "llmops-workshop",
                 "STANDARD_FLOW_PATH": "flows/standard",
                 "EVALUATION_FLOW_PATH": "flows/evaluation"
             },
             {
                 "ENV_NAME": "postprodeval",
                 "RUNTIME_NAME": "llmops-runtime-1",
-                "KEYVAULT_NAME": "aml18407241979",
-                "RESOURCE_GROUP_NAME": "aml",
-                "WORKSPACE_NAME": "aml1",
+                "KEYVAULT_NAME": "kv-hub1819241652769",
+                "RESOURCE_GROUP_NAME": "rg-hub1",
+                "WORKSPACE_NAME": "llmops-workshop",
                 "STANDARD_FLOW_PATH": "flows/post-production-evaluation"
             }
     ]
